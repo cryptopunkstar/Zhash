@@ -1,0 +1,7 @@
+{
+  "name": "Zhash - Private FHE Transfers",
+  "description": "A cutting-edge decentralized application utilizing Zama's Fully Homomorphic Encryption (FHE) to enable private, encrypted transfers of ETH, USDT, and USDC on EVM networks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
